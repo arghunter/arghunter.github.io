@@ -2,7 +2,7 @@
 # as long as the json variables name and description are provided
 title: HHS CS Club
 description: HHS Computer Science Club Website.
-baseurl: ""
+baseurl: "https://docs.google.com/forms/d/1JBcERG3sohKR7o9awkdlu70iLK5bV5LVteRpVtEzmKA/edit"
 url: https://hhscs.club
 
 # this information is shown on the homepage, all fields are optional and
@@ -19,16 +19,15 @@ json:
     - Tuesday Lunch
     - Room i5 (Mr. Shelby's room)
   contact:
-    president: Daniel Matsui Smola
-    vice_president: Ishwar Suriyaprakash
-    secretary/treasurer: Alicia Chu
-    workshop/community_director: Armaan Gomes
-    competitions/website_director: Aayush Gaywala
-    hackathons/events_director: Nancy Qian
-  demo: ML stuff, projects, some events ig
+    president: Armaan Gomes
+    secretary/treasurer: Aayush Gaywala
+    workshop/community_director: Kevin Chang
+    competitions/website_director: Akshay Giri
+    hackathons/events_director: Alicia Chu
+  demo: cool stuff, and more stuff, and some other programming stuff
   source: Send them to our discord
   profiles:
-    email_list: https://docs.google.com/forms/d/e/1FAIpQLSdoq7j8f0_1FuUk7brxRGurSGS1oVUrhoAy7UI1S8LoNd6a-A/viewform?usp=sf_link
+    email_list: https://docs.google.com/forms/d/1JBcERG3sohKR7o9awkdlu70iLK5bV5LVteRpVtEzmKA/edit
     discord: https://discord.gg/MMPh8zwDqN
     instagram: https://www.instagram.com/hhscomputerscience/
 
